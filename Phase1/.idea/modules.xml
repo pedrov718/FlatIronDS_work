@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/.idea/Downloads.iml" filepath="$USER_HOME$/Downloads/.idea/Downloads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FlatIron.iml" filepath="$PROJECT_DIR$/.idea/FlatIron.iml" />
+      <module fileurl="file://$USER_HOME$/AppData/Local/Temp/Temp1_Lecture 03_Pandas_Cornell.zip/.idea/Temp1_Lecture 03_Pandas_Cornell.zip.iml" filepath="$USER_HOME$/AppData/Local/Temp/Temp1_Lecture 03_Pandas_Cornell.zip/.idea/Temp1_Lecture 03_Pandas_Cornell.zip.iml" />
+      <module fileurl="file://$USER_HOME$/AppData/Local/Temp/Temp2_Lecture 03_Pandas_Cornell.zip/.idea/Temp2_Lecture 03_Pandas_Cornell.zip.iml" filepath="$USER_HOME$/AppData/Local/Temp/Temp2_Lecture 03_Pandas_Cornell.zip/.idea/Temp2_Lecture 03_Pandas_Cornell.zip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Text_Mining/.idea/Text_Mining.iml" filepath="$PROJECT_DIR$/../Text_Mining/.idea/Text_Mining.iml" />
+    </modules>
+  </component>
+</project>

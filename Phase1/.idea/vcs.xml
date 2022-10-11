@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DSNYC080822" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlatIronDS_work" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlatIronDS_work/dsc-combining-dataframes-pandas-lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flatiron_PG_DS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsc-data-serialization-lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsc-file-io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsc-grouping-data-with-sql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsc-grouping-data-with-sql-lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsc-intro-to-sqlite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsc-json-v2-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsc-lambda-functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsc-pandas-data-cleaning-lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsc-pandas-eda-lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsc-pandas-series-and-dataframes-lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsc-sql-subqueries" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsc-sql-subqueries-lab" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,239 @@
+<h1>Estimates of the Undocumented Population</h1><h3>Continent/Region of Origin <dload_block></h3>
+<table class="table table-bordered table-hover sortable" id="continent">
+    <thead>
+        <tr><th></th><th class="right">2010</th><th class="right">Pct. Dist.</th><th class="right" id="cnt1">2019</th><th class="right">Pct. Dist.</th></tr>
+    </thead>
+        <tr><td class="left">Total: All Countries</td><td class="right">11,725,000</td><td class="right">100.0%</td><td class="right">10,348,884</td><td class="right">100.0%</td></tr>
+        <tr><td class="left">North America</td><td class="right">6,649,649</td><td class="right">56.7%</td><td class="right">4,782,601</td><td class="right">46.2%</td></tr>
+        <tr><td class="left">Central America</td><td class="right">1,504,966</td><td class="right">12.8%</td><td class="right">1,923,938</td><td class="right">18.6%</td></tr>
+        <tr><td class="left">Caribbean</td><td class="right">498,526</td><td class="right">4.3%</td><td class="right">434,972</td><td class="right">4.2%</td></tr>
+        <tr><td class="left">South America</td><td class="right">818,003</td><td class="right">7.0%</td><td class="right">796,854</td><td class="right">7.7%</td></tr>
+        <tr><td class="left">Asia</td><td class="right">1,558,814</td><td class="right">13.3%</td><td class="right">1,713,957</td><td class="right">16.6%</td></tr>
+        <tr><td class="left">Africa</td><td class="right">299,814</td><td class="right">2.6%</td><td class="right">370,278</td><td class="right">3.6%</td></tr>
+        <tr><td class="left">Europe</td><td class="right">372,050</td><td class="right">3.2%</td><td class="right">292,129</td><td class="right">2.8%</td></tr>
+        <tr><td class="left">Oceania</td><td class="right">23,170</td><td class="right">0.2%</td><td class="right">23,500</td><td class="right">0.2%</td></tr>
+</table>
+
+
+<h3>Top Countries of Origin (U.S., 2019)</h3>
+<table class="table table-bordered table-hover sortable" id="country">
+    <thead>
+        <tr><th></th><th class="right" id="ctry1">2019</th><th class="right">Pct. Dist.</th></tr>
+    </thead>
+    <tr><td class="left">Mexico</td><td class="right">4,750,064</td><td class="right">45.9%</td></tr>
+    <tr><td class="left">El Salvador</td><td class="right">716,837</td><td class="right">6.9%</td></tr>
+    <tr><td class="left">India</td><td class="right">611,487</td><td class="right">5.9%</td></tr>
+    <tr><td class="left">Guatemala</td><td class="right">662,475</td><td class="right">6.4%</td></tr>
+    <tr><td class="left">Honduras</td><td class="right">465,904</td><td class="right">4.5%</td></tr>
+    <tr><td class="left">China</td><td class="right">348,550</td><td class="right">3.4%</td></tr>
+    <tr><td class="left">Dominican Republic</td><td class="right">170,376</td><td class="right">1.6%</td></tr>
+    <tr><td class="left">Philippines</td><td class="right">180,385</td><td class="right">1.7%</td></tr>
+    <tr><td class="left">South Korea</td><td class="right">138,001</td><td class="right">1.3%</td></tr>
+    <tr><td class="left">Colombia</td><td class="right">148,661</td><td class="right">1.4%</td></tr>
+    <tr><td class="left">Venezuela</td><td class="right">192,169</td><td class="right">1.9%</td></tr>
+    <tr><td class="left">Ecuador</td><td class="right">103,036</td><td class="right">1.0%</td></tr>
+    <tr><td class="left">Haiti</td><td class="right">115,251</td><td class="right">1.1%</td></tr>
+    <tr><td class="left">Jamaica</td><td class="right">100,189</td><td class="right">1.0%</td></tr>
+    <tr><td class="left">Peru</td><td class="right">72,898</td><td class="right">0.7%</td></tr>
+    <tr><td class="left">Vietnam</td><td class="right">106,080</td><td class="right">1.0%</td></tr>
+    <tr><td class="left">Nicaragua</td><td class="right">49,810</td><td class="right">0.5%</td></tr>
+    <tr><td class="left">Nigeria</td><td class="right">81,933</td><td class="right">0.8%</td></tr>
+    <tr><td class="left">Poland</td><td class="right">41,960</td><td class="right">0.4%</td></tr>
+    <tr><td class="left">Canada</td><td class="right">32,537</td><td class="right">0.3%</td></tr>
+    <tr><td class="left">Pakistan</td><td class="right">49,684</td><td class="right">0.5%</td></tr>
+    <tr><td class="left">Brazil</td><td class="right">174,369</td><td class="right">1.7%</td></tr>
+    <tr><td class="left">Russia</td><td class="right">37,304</td><td class="right">0.4%</td></tr>
+
+    <tr><td class="left">Argentina</td><td class="right">37,833</td><td class="right">0.4%</td></tr>
+    <tr><td class="left">Ethiopia</td><td class="right">30,029</td><td class="right">0.3%</td></tr>
+    <tr><td class="left">Ghana</td><td class="right">30,272</td><td class="right">0.3%</td></tr>
+    <tr><td class="left">Nepal</td><td class="right">39,330</td><td class="right">0.4%</td></tr>
+    <tr><td class="left">Thailand</td><td class="right">29,284</td><td class="right">0.3%</td></tr>
+    <tr><td class="left">Ukraine</td><td class="right">28,294</td><td class="right">0.3%</td></tr>
+    <!--
+    <tr><td class="left">Argentina</td><td class="right">43,185</td><td class="right">0.4%</td><td class="right">N/A</td><td class="right">N/A</td></tr>
+    <tr><td class="left">Ethiopia</td><td class="right">36,751</td><td class="right">0.3%</td><td class="right">N/A</td><td class="right">N/A</td></tr>
+    <tr><td class="left">Ghana</td><td class="right">25,110</td><td class="right">0.2%</td><td class="right">N/A</td><td class="right">N/A</td></tr>
+    <tr><td class="left">Nepal</td><td class="right">N/A</td><td class="right">N/A</td><td class="right">39,330</td><td class="right">0.4%</td></tr>
+    <tr><td class="left">Thailand</td><td class="right">N/A</td><td class="right">N/A</td><td class="right">29,284</td><td class="right">0.3%</td></tr>
+    <tr><td class="left">Ukraine</td><td class="right">N/A</td><td class="right">N/A</td><td class="right">28,294</td><td class="right">0.3%</td></tr>
+    -->
+
+</table>
+<h3>Period of Entry</h3>
+<table class="table table-bordered table-hover">
+<tr><th></th><th class="right">2010</th><th class="right">Pct. Dist.</th><th class="right">2019</th><th class="right">Pct. Dist.</th></tr>
+<tr><td class="left">Total</td><td class="right">11,725,000</td><td class="right">100.0%</td><td class="right">10,348,884</td><td class="right">100.0%</td></tr>
+<tr><td class="left">2010 or later</td><td class="right">228,723</td><td class="right">2.0%</td><td class="right">4,343,050</td><td class="right">42.0%</td></tr>
+<tr><td class="left">2005 to 2009</td><td class="right">3,096,361</td><td class="right">26.4%</td><td class="right">1,610,682</td><td class="right">15.6%</td></tr>
+<tr><td class="left">2000 to 2004</td><td class="right">3,610,695</td><td class="right">30.8%</td><td class="right">1,985,777</td><td class="right">19.2%</td></tr>
+<tr><td class="left">1995 to 1999</td><td class="right">2,254,632</td><td class="right">19.2%</td><td class="right">1,172,460</td><td class="right">11.3%</td></tr>
+<tr><td class="left">1990 to 1994</td><td class="right">1,413,236</td><td class="right">12.1%</td><td class="right">683,194</td><td class="right">6.6%</td></tr>
+<tr><td class="left">Before 1990</td><td class="right">1,121,361</td><td class="right">9.6%</td><td class="right">553,719</td><td class="right">5.4%</td></tr>
+</table>
+
+<h3>Years in the United States</h3>
+<table class="table table-bordered table-hover">
+<tr><th></th><th class="right">2010</th><th class="right">Pct. Dist.</th><th class="right">2019</th><th class="right">Pct. Dist.</th></tr>
+<tr><td class="left">Total</td><td class="right">11,725,000</td><td class="right">100.0%</td><td class="right">10,348,884</td><td class="right">100.0%</td></tr>
+<tr><td class="left">Less than 5</td><td class="right">2,469,292</td><td class="right">21.1%</td><td class="right">2,542,548</td><td class="right">24.6%</td></tr>
+<tr><td class="left">5 to 9</td><td class="right">3,423,521</td><td class="right">29.2%</td><td class="right">1,800,498</td><td class="right">17.4%</td></tr>
+<tr><td class="left">10 to 14</td><td class="right">2,879,170</td><td class="right">24.6%</td><td class="right">1,610,682</td><td class="right">15.6%</td></tr>
+<tr><td class="left">15 to 19</td><td class="right">1,397,352</td><td class="right">11.9%</td><td class="right">1,985,777</td><td class="right">19.2%</td></tr>
+<tr><td class="left">20 or more</td><td class="right">1,555,658</td><td class="right">13.3%</td><td class="right">2,409,373</td><td class="right">23.3%</td></tr>
+</table>
+
+<h3>Arrived Before Age 16</h3>
+<table class="table table-bordered table-hover">
+<tr><th></th><th class="right">2019</th></tr>
+<tr><td class="left">All who entered at below 16 years of age</td><td class="right">2,687,930</td></tr>
+<tr><td class="left">Arrived between 2010 and 2017</td><td class="right">1,016,750</td></tr>
+<tr><td class="left">Arrived between 2000 and 2009</td><td class="right">857,679</td></tr>
+<tr><td class="left">Arrived between 1990 and 1999</td><td class="right">512,244</td></tr>
+<tr><td class="left">Arrived before 1990</td><td class="right">202,547</td></tr>
+</table>
+
+<h3>Language Spoken at Home (5 years and older)</h3>
+<table class="table table-bordered table-hover">
+<tr><th></th><th class="right">2010</th><th class="right">Pct. Dist.</th><th class="right">2019</th><th class="right">Pct. Dist.</th></tr>
+<tr><td class="left">Total</td><td class="right">11,604,182</td><td class="right">100.0%</td><td class="right">10,199,326</td><td class="right">100.0%</td></tr>
+<tr><td class="left">Spanish</td><td class="right">8,625,726</td><td class="right">74.3%</td><td class="right">7,108,392</td><td class="right">69.7%</td></tr>
+<tr><td class="left">English</td><td class="right">673,583</td><td class="right">5.8%</td><td class="right">701,019</td><td class="right">6.9%</td></tr>
+<tr><td class="left">Chinese</td><td class="right">320,096</td><td class="right">2.8%</td><td class="right">359,485</td><td class="right">3.5%</td></tr>
+<tr><td class="left">Hindi</td><td class="right">315,532</td><td class="right">2.7%</td><td class="right">403,792</td><td class="right">4.0%</td></tr>
+<tr><td class="left">French</td><td class="right">198,268</td><td class="right">1.7%</td><td class="right">176,578</td><td class="right">1.7%</td></tr>
+<tr><td class="left">Filipino</td><td class="right">220,506</td><td class="right">1.9%</td><td class="right">154,656</td><td class="right">1.5%</td></tr>
+<tr><td class="left">Dravidian</td><td class="right">150,546</td><td class="right">1.3%</td><td class="right">263,543</td><td class="right">2.6%</td></tr>
+<tr><td class="left">Korean</td><td class="right">195,796</td><td class="right">1.7%</td><td class="right">126,029</td><td class="right">1.2%</td></tr>
+<tr><td class="left">Arabic</td><td class="right">55,463</td><td class="right">0.5%</td><td class="right">73,268</td><td class="right">0.7%</td></tr>
+<tr><td class="left">Other language</td><td class="right">969,486</td><td class="right">8.4%</td><td class="right">982,116</td><td class="right">9.6%</td></tr>
+</table>
+
+<h3>Ability to Speak English (5 years and older)</h3>
+<table class="table table-bordered table-hover">
+<tr><th></th><th class="right">2010</th><th class="right">Pct. Dist.</th><th class="right">2019</th><th class="right">Pct. Dist.</th></tr>
+<tr><td class="left">Total 5 years and older</td><td class="right">11,604,182</td><td class="right">100.0%</td><td class="right">10,199,326</td><td class="right">100.0%</td></tr>
+<tr><td class="left">Does not speak English</td><td class="right">2,009,009</td><td class="right">17.3%</td><td class="right">1,455,457</td><td class="right">14.3%</td></tr>
+<tr><td class="left">Speaks English a little</td><td class="right">3,487,394</td><td class="right">30.1%</td><td class="right">2,762,657</td><td class="right">27.1%</td></tr>
+<tr><td class="left">Speaks English well</td><td class="right">2,524,053</td><td class="right">21.8%</td><td class="right">2,267,622</td><td class="right">22.2%</td></tr>
+<tr><td class="left">Speaks English very well (or only English)</td><td class="right">3,583,722</td><td class="right">30.9%</td><td class="right">3,713,584</td><td class="right">36.4%</td></tr>
+</table>
+
+<h3>School Enrollment (3 years and older)</h3>
+<table class="table table-bordered table-hover">
+<tr><th></th><th class="right">2010</th><th class="right">Pct. Dist.</th><th class="right">2019</th><th class="right">Pct. Dist.</th></tr>
+<tr><td class="left">Total 3 years and older</td><td class="right">11,672,038</td><td class="right">100.0%</td><td class="right">10,281,525</td><td class="right">100.0%</td></tr>
+<tr><td class="left">Enrolled in school</td><td class="right">1,955,326</td><td class="right">16.8%</td><td class="right">1,526,135</td><td class="right">14.8%</td></tr>
+<tr><td class="left">Not enrolled in school</td><td class="right">9,716,715</td><td class="right">83.2%</td><td class="right">8,755,389</td><td class="right">85.2%</td></tr>
+</table>
+
+<h3>Educational attainment (18 years and older)</h3>
+<table class="table table-bordered table-hover">
+<tr><th></th><th class="right">2010</th><th class="right">Pct. Dist.</th><th class="right">2019</th><th class="right">Pct. Dist.</th></tr>
+<tr><td class="left">Total 18 years and older</td><td class="right">10,310,228</td><td class="right">100.0%</td><td class="right">9,246,196</td><td class="right">100.0%</td></tr>
+<tr><td class="left">Less than high school diploma or equivalent</td><td class="right">4,901,660</td><td class="right">47.5%</td><td class="right">3,695,153</td><td class="right">40.0%</td></tr>
+<tr><td class="left">High school diploma or equivalent</td><td class="right">2,697,876</td><td class="right">26.2%</td><td class="right">2,494,278</td><td class="right">27.0%</td></tr>
+<tr><td class="left">Some college</td><td class="right">1,400,381</td><td class="right">13.6%</td><td class="right">1,342,023</td><td class="right">14.5%</td></tr>
+<tr><td class="left">Bachelor's degree or higher</td><td class="right">1,310,307</td><td class="right">12.7%</td><td class="right">1,714,744</td><td class="right">18.5%</td></tr>
+</table>
+
+<h3>Age (in years)</h3>
+<table class="table table-bordered table-hover">
+<tr><th></th><th class="right">2010</th><th class="right">Pct. Dist.</th><th class="right">2019</th><th class="right">Pct. Dist.</th></tr>
+<tr><td class="left">Total</td><td class="right">11,725,000</td><td class="right">100.0%</td><td class="right">10,348,884</td><td class="right">100.0%</td></tr>
+<tr><td class="left">Under 5</td><td class="right">120,821</td><td class="right">1.0%</td><td class="right">149,558</td><td class="right">1.4%</td></tr>
+<tr><td class="left">5 to 17</td><td class="right">1,293,948</td><td class="right">11.0%</td><td class="right">953,125</td><td class="right">9.2%</td></tr>
+<tr><td class="left">18 to 20</td><td class="right">608,564</td><td class="right">5.2%</td><td class="right">402,909</td><td class="right">3.9%</td></tr>
+<tr><td class="left">21 to 24</td><td class="right">1,177,703</td><td class="right">10.0%</td><td class="right">666,482</td><td class="right">6.4%</td></tr>
+<tr><td class="left">25 to 34</td><td class="right">3,608,283</td><td class="right">30.8%</td><td class="right">2,574,574</td><td class="right">24.9%</td></tr>
+<tr><td class="left">35 to 44</td><td class="right">2,946,170</td><td class="right">25.1%</td><td class="right">2,936,305</td><td class="right">28.4%</td></tr>
+<tr><td class="left">45 to 64</td><td class="right">1,921,577</td><td class="right">16.4%</td><td class="right">2,590,756</td><td class="right">25.0%</td></tr>
+<tr><td class="left">65 and older</td><td class="right">47,932</td><td class="right">0.4%</td><td class="right">75,169</td><td class="right">0.7%</td></tr>
+</table>
+
+<h3>Sex</h3>
+<table class="table table-bordered table-hover">
+<tr><th></th><th class="right">2010</th><th class="right">Pct. Dist.</th><th class="right">2019</th><th class="right">Pct. Dist.</th></tr>
+<tr><td class="left">Total</td><td class="right">11,725,000</td><td class="right">100.0%</td><td class="right">10,348,884</td><td class="right">100.0%</td></tr>
+<tr><td class="left">Female</td><td class="right">5,276,787</td><td class="right">45.0%</td><td class="right">4,806,001</td><td class="right">46.4%</td></tr>
+<tr><td class="left">Male</td><td class="right">6,448,215</td><td class="right">55.0%</td><td class="right">5,542,885</td><td class="right">53.6%</td></tr>
+</table>
+
+<h3>Access to a computer or the internet (2019 only)</h3>
+<table class="table table-bordered table-hover">
+<tr><th></th><th class="right">2010</th><th class="right">Pct. Dist.</th><th class="right">2019</th><th class="right">Pct. Dist.</th></tr>
+<tr><td class="left">Total</td><td class="right">N/A</td><td class="right">0.0%</td><td class="right">10,348,884</td><td class="right">100.0%</td></tr>
+<tr><td class="left">Access to a computer</td><td class="right">N/A</td><td class="right">0.0%</td><td class="right">1,149,190</td><td class="right">11.1%</td></tr>
+<tr><td class="left">Access to internet</td><td class="right">N/A</td><td class="right">0.0%</td><td class="right">90,303</td><td class="right">0.9%</td></tr>
+<tr><td class="left">Access to both</td><td class="right">N/A</td><td class="right">0.0%</td><td class="right">8,705,398</td><td class="right">84.1%</td></tr>
+</table>
+
+<h3>Poverty Status</h3>
+<table class="table table-bordered table-hover">
+<tr><th></th><th class="right">2010</th><th class="right">Pct. Dist.</th><th class="right">2019</th><th class="right">Pct. Dist.</th></tr>
+<tr><td class="left">Total</td><td class="right">11,725,000</td><td class="right">100.0%</td><td class="right">10,348,884</td><td class="right">100.0%</td></tr>
+<tr><td class="left">Above poverty threshold</td><td class="right">8,383,861</td><td class="right">71.5%</td><td class="right">8,325,561</td><td class="right">80.4%</td></tr>
+<tr><td class="left">At or below poverty threshold</td><td class="right">3,341,139</td><td class="right">28.5%</td><td class="right">2,023,323</td><td class="right">19.6%</td></tr>
+</table>
+
+<h3>Employment status (16 years and older)</h3>
+<table class="table table-bordered table-hover">
+<tr><th></th><th class="right">2010</th><th class="right">Pct. Dist.</th><th class="right">2019</th><th class="right">Pct. Dist.</th></tr>
+<tr><td class="left">Total</td><td class="right">10,621,037</td><td class="right">100.0%</td><td class="right">9,442,834</td><td class="right">100.0%</td></tr>
+<tr><td class="left">Labor Force</td><td class="right">8,073,403</td><td class="right">100.0%</td><td class="right">7,296,216</td><td class="right">100.0%</td></tr>
+<tr><td class="left">   Employed</td><td class="right">7,188,500</td><td class="right">67.7%</td><td class="right">7,015,804</td><td class="right">74.3%</td></tr>
+<tr><td class="left">   Unemployed (but seeking work)</td><td class="right">884,899</td><td class="right">8.3%</td><td class="right">280,415</td><td class="right">3.0%</td></tr>
+<tr><td class="left">Not in labor force</td><td class="right">2,547,635</td><td class="right">24.0%</td><td class="right">2,146,615</td><td class="right">22.7%</td></tr>
+</table>
+
+<h3>Occupation</h3>
+<table class="table table-bordered table-hover">
+    <tr><th></th><th class="right">2019</th><th class="right">Pct. Dist.</th></tr>
+
+    <tr><td class="left">Total (16 and over in the labor force)</td><td class="right">7,296,216</td><td class="right">100.0%</td></tr>
+    <tr><td class="left">Managerial & professional specialty</td><td class="right">1,202,476</td><td class="right">16.5%</td></tr>
+    <tr><td class="left">Technical, sales & administrative support</td><td class="right">790,009</td><td class="right">10.8%</td></tr>
+    <tr><td class="left">Services</td><td class="right">2,104,063</td><td class="right">28.8%</td></tr>
+    <tr><td class="left">Natural resources, construction & maintenance</td><td class="right">1,768,942</td><td class="right">24.2%</td></tr>
+    <tr><td class="left">Production, transportation & material moving</td><td class="right">1,347,694</td><td class="right">18.5%</td></tr>
+    <!--
+    <tr><td class="left">Total (16 and over in the labor force)</td><td class="right">7,296,216</td><td class="right">100.0%</td></tr>
+    <tr><td class="left">Management, business, science & arts</td><td class="right"><occ_catp7_y2></td><td class="right"><occ_catp7_y2_pct></td></tr>
+    <tr><td class="left">Services</td><td class="right"><occ_catp8_y2></td><td class="right"><occ_catp8_y2_pct></td></tr>
+    <tr><td class="left">Sales and office</td><td class="right"><occ_catp9_y2></td><td class="right"><occ_catp9_y2_pct></td></tr>
+    <tr><td class="left">Natural resources, construction & maintenance</td><td class="right"><occ_catp10_y2></td><td class="right"><occ_catp10_y2_pct></td></tr>
+    <tr><td class="left">Production, transportation & material moving</td><td class="right"><occ_catp11_y2></td><td class="right"><occ_catp11_y2_pct></td></tr>
+        -->
+</table>
+
+<h3>Health Insurance Coverage</h3>
+<table class="table table-bordered table-hover">
+<tr><th></th><th class="right">2010</th><th class="right">Pct. Dist.</th><th class="right">2019</th><th class="right">Pct. Dist.</th></tr>
+<tr><td class="left">Total</td><td class="right">11,725,000</td><td class="right">100.0%</td><td class="right">10,348,881</td><td class="right">100.0%</td></tr>
+<tr><td class="left">&nbsp;&nbsp;&nbsp;&nbsp;with coverage</td><td class="right">3,694,794</td><td class="right">31.5%</td><td class="right">5,166,040</td><td class="right">49.9%</td></tr>
+<tr><td class="left">&nbsp;&nbsp;&nbsp;&nbsp;with no coverage</td><td class="right">8,030,199</td><td class="right">68.5%</td><td class="right">5,182,841</td><td class="right">50.1%</td></tr>
+</table>
+
+<h3>Race by Ethnicity</h3>
+<table class="table table-bordered table-hover">
+<tr><th></th><th class="right">2010</th><th class="right">Pct. Dist.</th><th class="right">2019</th><th class="right">Pct. Dist.</th></tr>
+<tr><td class="left">Total</td><td class="right">11,725,000</td><td class="right">100.0%</td><td class="right">10,348,884</td><td class="right">100.0%</td></tr>
+<tr><td class="left">Hispanic</td><td class="right">8,869,270</td><td class="right">75.6%</td><td class="right">7,410,008</td><td class="right">71.6%</td></tr>
+<tr><td class="left">Asian (not Hispanic)</td><td class="right">1,495,300</td><td class="right">12.8%</td><td class="right">1,621,722</td><td class="right">15.7%</td></tr>
+<tr><td class="left">Black (not Hispanic)</td><td class="right">566,800</td><td class="right">4.8%</td><td class="right">582,299</td><td class="right">5.6%</td></tr>
+<tr><td class="left">White (not Hispanic)</td><td class="right">673,959</td><td class="right">5.7%</td><td class="right">598,701</td><td class="right">5.8%</td></tr>
+<tr><td class="left">Other (not Hispanic)</td><td class="right">119,675</td><td class="right">1.0%</td><td class="right">136,145</td><td class="right">1.3%</td></tr>
+</table>
+
+
+
+
+<div class="container-fluid">
+
+<h4>Privacy Notice</h4>
+	<p style="margin-bottom:0; font-style:italic; font-weight:bold;">Privacy of Respondents</p>
+    <p>A  number of procedures were used by the US Census Bureau to&nbsp;ensure privacy  in&nbsp;the ACS public use data. In addition,&nbsp;the&nbsp;estimates&nbsp;are  based on an approximately one percent sample; they&nbsp;are shown in relatively  broad categories;&nbsp;and&nbsp;estimates are not shown for countries that have  fewer than 1,000 estimated undocumented residents.</p>
+    <p>These estimates are based on sample data and are subject to sampling variability as  well as other possible non-sampling errors. A number of statistical adjustments  were made to the actual ACS PUMS sample data, including an adjustment for  undercount of the undocumented in the ACS.&nbsp; For these reasons, the  estimates shown here are not comparable to the original ACS data. Because of  the adjustment for undercount, in a few cases, the estimates of undocumented residents may be near or even slightly higher than the number of noncitizens  reported in the ACS. Finally, estimates of less than a few thousand  should&nbsp;be used with caution.</p>	
+
+    <p>See <a href="https://journals.sagepub.com/doi/10.1177/233150241400200403">Methodology</a> for more information on these estimates. </p>
+</div><p>Published by the <a href="http://cmsny.org/">Center for Migration Studies</a>, all rights reserved.<br/>Based on the augmented American Community Survey based IPUMS (Integrated Public Use Microdata Series).</p>
